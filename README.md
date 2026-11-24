@@ -59,12 +59,6 @@ Multi-digit multiplication compounds this cognitive load: multiplying by tens or
 #### 3D Printing Notes
 - **Braille orientation & touch:** Orienting/printing with braille raised appropriately to the side helps dots read cleanly without feeling overly sharp to the touch.
 - **Filament & slicer settings:** Tested on a Bambu P1S in BambuStudio using default print parameters with budget PLA (such as Generic PLA, Filastruder PLA, or Elegoo PLA). Start with default settings and tune for your specific printer and filament.
-
-### 2. Generate Custom Worksheets
-
-1. Run the provided **PowerShell** script on Windows, or the **Bash / Zsh** script on macOS or Linux.
-2. Follow the prompts to configure worksheet size, number ranges, and notation options (UEB, Nemeth, or print).
-
 ---
 
 ## Customizing with OpenSCAD
